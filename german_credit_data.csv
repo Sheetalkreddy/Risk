@@ -1,4 +1,4 @@
-CheckingStatus,LoanDuration,CreditHistory,LoanPurpose,LoanAmount,ExistingSavings,EmploymentDuration,InstallmentPercent,Sex,OthersOnLoan,CurrentResidenceDuration,OwnsProperty,Age,InstallmentPlans,Housing,ExistingCreditsCount,Job,Dependents,Telephone,ForeignWorker,Risk
+CheckingStatus,LoanDuration,CreditHistory,LoanPurpose,LoanAmount,ExistingSavings,EmploymentDuration,InstallmentPercent,Status,OthersOnLoan,CurrentResidenceDuration,OwnsProperty,Age,InstallmentPlans,Housing,ExistingCreditsCount,Job,Dependents,Telephone,ForeignWorker,Risk
 0_to_200,31,credits_paid_to_date,other,1889,100_to_500,less_1,3,minority,none,3,savings_insurance,32,none,own,1,skilled,1,none,yes,Risk
 less_0,18,credits_paid_to_date,car_new,462,less_100,1_to_4,2,minority,none,2,savings_insurance,37,stores,own,2,skilled,1,none,yes,No Risk
 less_0,16,credits_paid_to_date,vacation,3109,less_100,4_to_7,3,minority,none,1,car_other,36,none,own,2,skilled,1,none,yes,Risk
